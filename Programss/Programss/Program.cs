@@ -14,7 +14,9 @@ namespace Programss
 
             //ReplaceString Replacee = new ReplaceString();
             //Replacee.ReadingInputFromUser();
-            PowerOfTwo.GetPowerOfTwo();
+            //PowerOfTwo.GetPowerOfTwo();
+
+            Factorial.findFact();
         }
     }
 }
