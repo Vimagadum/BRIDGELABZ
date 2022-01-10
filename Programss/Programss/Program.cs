@@ -8,6 +8,7 @@ namespace Programss
         {
             Console.WriteLine("Hello World!");
             Fibonaccy.findFibonacciSeries();
+            Harmonic.PrintHarmonicNumber();
         }
     }
 }
