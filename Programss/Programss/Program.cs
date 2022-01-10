@@ -10,7 +10,10 @@ namespace Programss
             //Fibonaccy.findFibonacciSeries();
             //Harmonic.PrintHarmonicNumber();
             //FlipCoin.flipCoinPercentage();
-            ReverseNumber.findReverse();
+            //ReverseNumber.findReverse();
+
+            ReplaceString Replacee = new ReplaceString();
+            Replacee.ReadingInputFromUser();
         }
     }
 }
