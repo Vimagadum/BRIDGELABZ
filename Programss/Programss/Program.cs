@@ -6,9 +6,10 @@ namespace Programss
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Fibonaccy.findFibonacciSeries();
-            Harmonic.PrintHarmonicNumber();
+            //Console.WriteLine("Hello World!");
+            //Fibonaccy.findFibonacciSeries();
+            //Harmonic.PrintHarmonicNumber();
+            FlipCoin.flipCoinPercentage();
         }
     }
 }
