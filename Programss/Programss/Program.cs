@@ -12,8 +12,9 @@ namespace Programss
             //FlipCoin.flipCoinPercentage();
             //ReverseNumber.findReverse();
 
-            ReplaceString Replacee = new ReplaceString();
-            Replacee.ReadingInputFromUser();
+            //ReplaceString Replacee = new ReplaceString();
+            //Replacee.ReadingInputFromUser();
+            PowerOfTwo.GetPowerOfTwo();
         }
     }
 }
