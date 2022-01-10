@@ -9,7 +9,8 @@ namespace Programss
             //Console.WriteLine("Hello World!");
             //Fibonaccy.findFibonacciSeries();
             //Harmonic.PrintHarmonicNumber();
-            FlipCoin.flipCoinPercentage();
+            //FlipCoin.flipCoinPercentage();
+            ReverseNumber.findReverse();
         }
     }
 }
