@@ -16,7 +16,9 @@ namespace Programss
             //Replacee.ReadingInputFromUser();
             //PowerOfTwo.GetPowerOfTwo();
 
-            Factorial.findFact();
+            //Factorial.findFact();
+
+            SwapNumber.readInputFromUser();
         }
     }
 }
